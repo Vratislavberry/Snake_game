@@ -1,1 +1,1 @@
-# Snake_game
+- Retro snake game created using Turtle module
